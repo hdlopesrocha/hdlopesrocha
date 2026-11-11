@@ -20,9 +20,6 @@ Henrique Duarte Lopes Rocha — Telecommunications & Informatics Engineer
 hdlopesrocha@github:~$ cat focus.txt
 vulkan · sdf · ray-marching · compute · ai agents · vr · procedural audio
 
-hdlopesrocha@github:~$ ls ~/projects | wc -l
-23
-
 hdlopesrocha@github:~$ open https://hdlopesrocha.github.io/
 ```
 
