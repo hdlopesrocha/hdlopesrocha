@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://hdlopesrocha.github.io/"><img alt="Website" src="https://img.shields.io/badge/website-hdlopesrocha.github.io-2dd4bf?style=flat-square&logo=githubpages&logoColor=white"></a>
-  <a href="https://github.com/hdlopesrocha/cv/blob/master/cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-38bdf8?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a>
-  <a href="mailto:hdlopesrocha@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/email-hdlopesrocha%40protonmail.com-a78bfa?style=flat-square&logo=protonmail&logoColor=white"></a>
-</p>
-
 ```console
 hdlopesrocha@github:~$ whoami
 Henrique Duarte Lopes Rocha — Telecommunications & Informatics Engineer
