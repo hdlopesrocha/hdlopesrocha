@@ -40,36 +40,3 @@ I like low-level rendering as much as I like shipping a clean web UI, and I tend
 | **VR & interaction** | WebXR, immersive music visualizers, gaze and gyro input, stereo rendering |
 | **Web & creative code** | Vue 3, TypeScript, Three.js, WebGL2, Web Audio, Canvas, WebRTC, Nostr, Lightning |
 | **Hardware** | ESP32, LoRa, relay control, calendars, sensor and data pipelines |
-
-## Featured projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**vulkan-engine**](https://github.com/hdlopesrocha/vulkan-engine) | Flagship real-time engine: GPU-driven pipelines, compute shaders, indirect rendering, SDF/volumetric ideas, octrees, procedural terrain and Surface Nets-style meshing. | Vulkan · C++20 · GLSL · compute |
-| [**web-gource**](https://github.com/hdlopesrocha/web-gource) | Browser reimplementation of Gource. Paste a public repo URL and watch its history branch into an animated map — read from the Git provider's API, never cloned. | Three.js · WebGL · TypeScript · Vue 3 |
-| [**infinity-edge-web**](https://github.com/hdlopesrocha/infinity-edge-web) | My 2013 XNA Windows Phone game, ported to the browser: original AI, physics and assets on a hand-written WebGL2 engine, now with WebXR VR and a six-stage framebuffer pipeline. | WebGL2 · GLSL · TypeScript · WebXR |
-| [**sdf-smoke**](https://github.com/hdlopesrocha/sdf-smoke) | Volumetric smoke experiments built on signed distance fields and ray marching. | SDF · ray marching · GPU |
-| [**opencode-talk**](https://github.com/hdlopesrocha/opencode-talk) | Two-way voice for OpenCode: speak to the agent, let it speak back — plus remote session control from Telegram, XMPP and Nostr. | TypeScript · Whisper · TTS · Nostr |
-| [**ist168621**](https://github.com/hdlopesrocha/ist168621) | MSc thesis: interactive multi-user video chat with recording, content overlay and a collaborative editor. | Kurento · WebRTC · ot.js |
-
-## Background
-
-- **CERN** — full-stack development and support across recruitment (FAP-BC-UI), planning (PLAN), intervention management (IMPACT), warehouse delivery (DigiWare) and cost analysis (APT). Two-time CERN Spring Campus speaker: Riga 2018 (WebRTC, collision detection) and Hamburg 2019 (WebAudio, WebGL music visualization).
-- **Bullray-CIT** — banking-device UI with USB sensors, Android work, a WebRTC/Kurento streaming server, and real-time incident monitoring over WebSockets.
-- **IST / INESC** — MSc thesis on multi-user video chat, plus research scholarships on decision-analysis software and the Bimk project.
-- **Before GitHub** — *Infinity Edge* (Windows Phone/XNA shooter, 2nd place at Microsoft's Pizza Night 2012), *Era of Empires* (OpenGL RTS engine, 2011), *OpenGlobe* (GPS/topographic Earth modeling, 2013) and *Bomb Raider* (Android OpenGL ES game, 2015).
-
-## Elsewhere
-
-- **Website** — [hdlopesrocha.github.io](https://hdlopesrocha.github.io/)
-- **CV** — [English](https://github.com/hdlopesrocha/cv/blob/master/cv.pdf) · [Français](https://github.com/hdlopesrocha/cv/blob/master/french.pdf) · [LaTeX source](https://github.com/hdlopesrocha/cv)
-- **GitHub** — [@hdlopesrocha](https://github.com/hdlopesrocha)
-- **YouTube** — [youtube.com/user/hdlopesrocha](https://www.youtube.com/user/hdlopesrocha)
-- **SoundCloud** — [soundcloud.com/hdlopesrocha](https://soundcloud.com/hdlopesrocha)
-- **Telegram** — [@hdlopesrocha](https://t.me/hdlopesrocha)
-- **Nostr** — `npub1vllnekxk2gqhmahcspn90n95a2plr3ldc2t8jk9r23vlj550lzzqfycvmr`
-- **Email** — [hdlopesrocha@protonmail.com](mailto:hdlopesrocha@protonmail.com)
-
-<p align="center">
-  <samp>// built with vue + vite · no backend · served from github pages</samp>
-</p>
